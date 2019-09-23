@@ -1,2 +1,2 @@
-nihal
+Returns the maximum value
 =====
